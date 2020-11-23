@@ -1,9 +1,12 @@
 package main
 
 import (
-	"github.com/Matt-Gleich/logoru"
+	"fmt"
+
+	"github.com/Matt-Gleich/wakavis/pkg/api"
 )
 
 func main() {
-	logoru.Success("Program booted up!")
+	key := api.ReadLocalToken()
+	fmt.Println(key)
 }
