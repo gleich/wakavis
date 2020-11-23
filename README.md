@@ -1,19 +1,17 @@
 <!-- DO NOT REMOVE - contributor_list:data:start:["Matt-Gleich", "cjdenio", "whitesource-bolt-for-github[bot]"]:end -->
 
-# Run `init.py`
+# wakavis
 
-# project_name
+⏰ Visualize your wakatime data from the terminal
 
-project_description
-
-![build](https://github.com/github_username/project_name/workflows/build/badge.svg)
-![test](https://github.com/github_username/project_name/workflows/test/badge.svg)
-![lint](https://github.com/github_username/project_name/workflows/lint/badge.svg)
-![release](https://github.com/github_username/project_name/workflows/release/badge.svg)
+![build](https://github.com/Matt-Gleich/wakavis/workflows/build/badge.svg)
+![test](https://github.com/Matt-Gleich/wakavis/workflows/test/badge.svg)
+![lint](https://github.com/Matt-Gleich/wakavis/workflows/lint/badge.svg)
+![release](https://github.com/Matt-Gleich/wakavis/workflows/release/badge.svg)
 
 ## 🙌 Contributing
 
-Before contributing, please read the [CONTRIBUTING.md file](https://github.com/Matt-Gleich/project_name/blob/master/CONTRIBUTING.md)
+Before contributing, please read the [CONTRIBUTING.md file](https://github.com/Matt-Gleich/wakavis/blob/master/CONTRIBUTING.md)
 
 <!-- DO NOT REMOVE - contributor_list:start -->
 
