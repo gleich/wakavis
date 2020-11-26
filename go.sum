@@ -1,5 +1,7 @@
 github.com/Matt-Gleich/statuser/v2 v2.4.0 h1:kO+lRXqWx+FyK8f70EV8FwyEiFd3BCQQFZ44HACKEYo=
 github.com/Matt-Gleich/statuser/v2 v2.4.0/go.mod h1:U30Ecc1mFtOjmJS81/sQwkU6ahyqaKRLWT5gpEuYefY=
+github.com/YouEclipse/wakatime-go v0.1.1 h1:NT6O3iw7SNPI5OG40eVrpTR/f6uCNmvpH8u3koc4kQY=
+github.com/YouEclipse/wakatime-go v0.1.1/go.mod h1:h4Y4peXcOv5faIKMvWAao9FCSWxxD8jU7hKtIib2fNA=
 github.com/enescakir/emoji v1.0.0 h1:W+HsNql8swfCQFtioDGDHCHri8nudlK1n5p2rHCJoog=
 github.com/enescakir/emoji v1.0.0/go.mod h1:Bt1EKuLnKDTYpLALApstIkAjdDrS/8IAgTkKp+WKFD0=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
