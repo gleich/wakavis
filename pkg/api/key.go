@@ -30,9 +30,11 @@ func ReadLocalToken() string {
 		key  string
 	)
 	for _, line := range strings.Split(conf, "\n") {
-		keyIdentifier := "api_key = "
+		keyIdentifier := "api_key"
 		if strings.HasPrefix(line, keyIdentifier) {
 			key = strings.TrimPrefix(line, keyIdentifier)
+			key = strings.Trim(key, " ")
+			key = strings.Trim(key, "=")
 			key = strings.Trim(key, " ")
 			break
 		}
