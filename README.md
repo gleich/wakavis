@@ -2,6 +2,8 @@
 
 # wakavis
 
+![build badge](https://github.com/Matt-Gleich/wakavis/workflows/build/badge.svg)
+
 ⏰ Visualize your wakatime data from the terminal
 
 ## 🙌 Contributing
