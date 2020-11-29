@@ -11,8 +11,8 @@
 Before contributing, please read the [CONTRIBUTING.md file](https://github.com/Matt-Gleich/wakavis/blob/master/CONTRIBUTING.md)
 
 <!-- DO NOT REMOVE - contributor_list:start -->
-## 👥 Contributors
 
+## 👥 Contributors
 
 - **[@Matt-Gleich](https://github.com/Matt-Gleich)**
 
