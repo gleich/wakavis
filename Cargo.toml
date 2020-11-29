@@ -5,3 +5,4 @@ authors = ["Matthew Gleich <email@mattglei.ch>"]
 edition = "2018"
 
 [dependencies]
+dirs = "3.0.1"
