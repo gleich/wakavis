@@ -1,5 +1,5 @@
 mod api;
 
 fn main() {
-    api::get_token();
+    println!("{}", api::get_token());
 }
