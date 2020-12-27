@@ -1,5 +1,8 @@
 mod api;
 
-fn main() {
-    println!("{}", api::get_token());
+fn main() -> anyhow::Result<()> {
+    let token = api::get_token()?;
+    println!("{}", token);
+
+    Ok(())
 }
